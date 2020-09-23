@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador IuriCode">
 
 <p align="left">
-  Olá, meu nome é Iuri sou <strong>Desenvolvedor Front-end</strong> e <strong>UI Designer</strong>.<br>
+  Olá, meu nome é Carlos sou <strong>Desenvolvedor Front-end</strong>.<br>
   Estou cursando Desenvolvimento de Sistemas e Sistema para Internet.
 </p>
 
