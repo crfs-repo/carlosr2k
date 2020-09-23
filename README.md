@@ -2,7 +2,7 @@
 
 <p align="left">
   Olá, meu nome é Carlos sou <strong>Desenvolvedor Front-end</strong>.<br>
-  Estou cursando Desenvolvimento de Sistemas e Sistema para Internet.
+  Estou cursando Programação em React Native.
 </p>
 
 <p align="left">
