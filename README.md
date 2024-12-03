@@ -1,4 +1,4 @@
 - 👋 Olá, sou Carlos Roberto
-- 👀 Tenho interesse em .NET | C# | ASP.NET Core | Backend
+- 👀 Tenho interesse em Software Engineer | Full Stack | C# | .NET | Angular | JavaScript
 - 🌱 Atualmente estou aprendendo .Net / ASP.NET
 - 📫 Como chegar carlos.roberto.info1@gmail.com
